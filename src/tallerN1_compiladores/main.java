@@ -22,7 +22,7 @@ public class main {
 		Scanner.lecturaEjemplosMalos(writer);
 	}
 	//para comentar lineas: cntrl+shift+C
-	//................
+	//..;...;...;...;
 	
 }
 
