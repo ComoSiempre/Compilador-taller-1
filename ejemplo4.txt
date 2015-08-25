@@ -1,0 +1,23 @@
+/*alternativa al metodo de ordenamieto QuickSort*/
+
+void qs(int lista[],int limite_izq, int limite_der){
+int izq = limite_izq;
+int der = limite_der;
+int aux;
+while(izq a[izq+1]){
+aux = a[izq+1];
+a[izq+1] = a[izq];
+a[izq] = aux;
+izq++;
+}else{
+aux = a[izq+1];
+a[izq+1] = a[der];
+a[der] = aux;
+der--;
+}
+
+if(izq d){qsAux(a,d,der-1);}
+
+}
+
+}

@@ -1,0 +1,20 @@
+void main()
+	{
+	float sum, res, mul, div, num1, num2;
+	clrscr();
+	printtf("*CALCULA LA SUMA; RESTA, MULTIPLICACION Y DIVISION DE 2 NUMEROS*");
+	printf("introduzca el primer numero");
+	scanf("%f",&num1);
+	printf("intrduzca el segundo numero");
+	scanf("%f",&num2);
+	sum=num1+num2;
+	res=num1-num2;
+	mul=num1*num2;
+	div=num1/num2;
+	printf("la suma es %f\n", sum);
+	printf("la resta es %f\n", res);
+	printf("la multiplicacion es %f\n", mul);
+	printf("la division es %f\n", div);
+	getch();
+	printf("Se termina el ejercicio");
+	}

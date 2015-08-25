@@ -1,0 +1,36 @@
+//volumen de un cuadrado.
+int cuadrado(int a1, int b1, int c1){
+int vo= a1*b1*c1;	
+return vo;
+}
+
+int sumaNumeros(int x){
+int suma=0;
+
+for(int i=1; i<=8; i++){
+suma+=x;
+}
+return suma;
+}
+
+int salario(){
+	char resp;
+const int _JORNADA=35, _PRECIO_NORMAL=12, _PRECIO_EXTRA=22;
+int horas, salario;
+int cont=0; 
+do{
+horas=8;
+
+if(horas<=35) salario=horas*_PRECIO_NORMAL;
+else salario=_JORNADA*_PRECIO_NORMAL+(horas-_JORNADA)*_PRECIO_EXTRA;
+
+
+fflush(stdin); /* Para limpiar el buffer de teclado */ 
+cont=cont+1;
+} while(cont==10);
+}
+
+void main(){
+	int totalnumeros=sumaNumeros(500);
+	int vol=cuadrado(50,50,50);	
+}

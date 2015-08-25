@@ -1,0 +1,23 @@
+/*este es el metodo de ordenamieto Burbuja*/
+int main () 
+{ 
+	int aux;
+	int i,j,k; 
+	int n=10;
+	int _A[n]; 
+	//comienzo del ordenamiento.
+	for (i=0;i<n;i++) 
+	{ 
+		for (j=0;j<n-i;j++) 
+		{ 
+			if (_A[j]>=_A[j+1]) 
+			{ 
+				aux=_A[j]; 
+				_A[j]=_A[j+1]; 
+				_A[j+1]=aux; 
+			} 
+	
+		} 
+
+	} 
+}

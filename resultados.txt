@@ -1,0 +1,3122 @@
+RESULTADOS DEL ARCHIVO: ejemplo1.txt
+linea:0, Columna: 0;
+<Simbolo especial COMENTARIO: '/*este el el metodo de ordenamieto Shell*/'>
+linea:1, Columna: 0;
+<palabra clave INT: 'int'>
+linea:1, Columna: 4;
+<TOKEN ID: 'a'>
+linea:1, Columna: 5;
+<Simbolo especial BRACKETLEFT: '['>
+linea:1, Columna: 6;
+<TOKEN NUM: '5'>
+linea:1, Columna: 7;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:1, Columna: 8;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:2, Columna: 0;
+<palabra clave INT: 'int'>
+linea:2, Columna: 4;
+<TOKEN ID: 'n'>
+linea:2, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:2, Columna: 6;
+<TOKEN NUM: '5'>
+linea:2, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:2, Columna: 7;
+<palabra clave VOID: 'void'>
+linea:3, Columna: 5;
+<TOKEN ID: 'main'>
+linea:3, Columna: 9;
+<Simbolo especial PARENTHLEFT: '('>
+linea:3, Columna: 10;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:4, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:5, Columna: 1;
+<palabra clave INT: 'int'>
+linea:5, Columna: 5;
+<TOKEN ID: 'inter'>
+linea:5, Columna: 10;
+<Simbolo especial ASSIGN: '='>
+linea:5, Columna: 11;
+<Simbolo especial PARENTHLEFT: '('>
+linea:5, Columna: 12;
+<TOKEN ID: 'n'>
+linea:5, Columna: 13;
+<Simbolo especial DIV: '/'>
+linea:5, Columna: 14;
+<TOKEN NUM: '2'>
+linea:5, Columna: 15;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:5, Columna: 16;
+<Simbolo especial COMA: ','>
+linea:5, Columna: 17;
+<TOKEN ID: 'i'>
+linea:5, Columna: 18;
+<Simbolo especial ASSIGN: '='>
+linea:5, Columna: 19;
+<TOKEN NUM: '0'>
+linea:5, Columna: 20;
+<Simbolo especial COMA: ','>
+linea:5, Columna: 21;
+<TOKEN ID: 'j'>
+linea:5, Columna: 22;
+<Simbolo especial ASSIGN: '='>
+linea:5, Columna: 23;
+<TOKEN NUM: '0'>
+linea:5, Columna: 24;
+<Simbolo especial COMA: ','>
+linea:5, Columna: 25;
+<TOKEN ID: 'k'>
+linea:5, Columna: 26;
+<Simbolo especial ASSIGN: '='>
+linea:5, Columna: 27;
+<TOKEN NUM: '0'>
+linea:5, Columna: 28;
+<Simbolo especial COMA: ','>
+linea:5, Columna: 29;
+<TOKEN ID: 'aux'>
+linea:5, Columna: 32;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:6, Columna: 1;
+<TOKEN ID: 'clrscr'>
+linea:6, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:6, Columna: 8;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:6, Columna: 9;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:7, Columna: 1;
+<Simbolo especial COMENTARIO: '//comienzo del ordenamiento
+'>
+linea:7, Columna: 1;
+<palabra clave WHILE: 'while'>
+linea:8, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:8, Columna: 7;
+<TOKEN ID: 'inter'>
+linea:8, Columna: 12;
+<Simbolo especial MAYOR: '>'>
+linea:8, Columna: 13;
+<TOKEN NUM: '0'>
+linea:8, Columna: 14;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:8, Columna: 15;
+<Simbolo especial BRACELEFT: '{'>
+linea:9, Columna: 2;
+<TOKEN ID: 'for'>
+linea:9, Columna: 5;
+<Simbolo especial PARENTHLEFT: '('>
+linea:9, Columna: 6;
+<TOKEN ID: 'i'>
+linea:9, Columna: 7;
+<Simbolo especial ASSIGN: '='>
+linea:9, Columna: 8;
+<TOKEN ID: 'inter'>
+linea:9, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 14;
+<TOKEN ID: 'i'>
+linea:9, Columna: 15;
+<Simbolo especial MENOR: '<'>
+linea:9, Columna: 16;
+<TOKEN ID: 'n'>
+linea:9, Columna: 17;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 18;
+<TOKEN ID: 'i'>
+linea:9, Columna: 19;
+<Simbolo especial SUMA: '+'>
+linea:9, Columna: 20;
+<Simbolo especial SUMA: '+'>
+linea:9, Columna: 21;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:10, Columna: 2;
+<Simbolo especial BRACELEFT: '{'>
+linea:11, Columna: 3;
+<TOKEN ID: 'j'>
+linea:11, Columna: 4;
+<Simbolo especial ASSIGN: '='>
+linea:11, Columna: 5;
+<TOKEN ID: 'i'>
+linea:11, Columna: 6;
+<Simbolo especial RESTA: '-'>
+linea:11, Columna: 7;
+<TOKEN ID: 'inter'>
+linea:11, Columna: 12;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:11, Columna: 12;
+<palabra clave WHILE: 'while'>
+linea:12, Columna: 8;
+<Simbolo especial PARENTHLEFT: '('>
+linea:12, Columna: 9;
+<TOKEN ID: 'j'>
+linea:12, Columna: 10;
+<Simbolo especial MAYIGUAL: '>='>
+linea:12, Columna: 12;
+<TOKEN NUM: '0'>
+linea:12, Columna: 13;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:12, Columna: 15;
+<Simbolo especial BRACELEFT: '{'>
+linea:13, Columna: 4;
+<TOKEN ID: 'k'>
+linea:13, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:13, Columna: 6;
+<TOKEN ID: 'j'>
+linea:13, Columna: 7;
+<Simbolo especial SUMA: '+'>
+linea:13, Columna: 8;
+<TOKEN ID: 'inter'>
+linea:13, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:14, Columna: 4;
+<palabra clave IF: 'if'>
+linea:14, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:14, Columna: 7;
+<TOKEN ID: 'a'>
+linea:14, Columna: 8;
+<Simbolo especial BRACKETLEFT: '['>
+linea:14, Columna: 9;
+<TOKEN ID: 'j'>
+linea:14, Columna: 10;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:14, Columna: 11;
+<Simbolo especial MENIGUAL: '<='>
+linea:14, Columna: 13;
+<TOKEN ID: 'a'>
+linea:14, Columna: 14;
+<Simbolo especial BRACKETLEFT: '['>
+linea:14, Columna: 15;
+<TOKEN ID: 'k'>
+linea:14, Columna: 16;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:14, Columna: 17;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:14, Columna: 18;
+<Simbolo especial BRACELEFT: '{'>
+linea:15, Columna: 5;
+<TOKEN ID: 'j'>
+linea:15, Columna: 6;
+<Simbolo especial RESTA: '-'>
+linea:15, Columna: 7;
+<Simbolo especial RESTA: '-'>
+linea:15, Columna: 8;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:16, Columna: 4;
+<Simbolo especial BRACERIGHT: '}'>
+linea:17, Columna: 4;
+<palabra clave ELSE: 'else'>
+linea:18, Columna: 4;
+<Simbolo especial BRACELEFT: '{'>
+linea:19, Columna: 5;
+<TOKEN ID: 'aux'>
+linea:19, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:19, Columna: 9;
+<TOKEN ID: 'a'>
+linea:19, Columna: 10;
+<Simbolo especial BRACKETLEFT: '['>
+linea:19, Columna: 11;
+<TOKEN ID: 'j'>
+linea:19, Columna: 12;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:19, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:20, Columna: 5;
+<TOKEN ID: 'a'>
+linea:20, Columna: 6;
+<Simbolo especial BRACKETLEFT: '['>
+linea:20, Columna: 7;
+<TOKEN ID: 'j'>
+linea:20, Columna: 8;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:20, Columna: 9;
+<Simbolo especial ASSIGN: '='>
+linea:20, Columna: 10;
+<TOKEN ID: 'a'>
+linea:20, Columna: 11;
+<Simbolo especial BRACKETLEFT: '['>
+linea:20, Columna: 12;
+<TOKEN ID: 'k'>
+linea:20, Columna: 13;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:20, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:21, Columna: 5;
+<TOKEN ID: 'a'>
+linea:21, Columna: 6;
+<Simbolo especial BRACKETLEFT: '['>
+linea:21, Columna: 7;
+<TOKEN ID: 'k'>
+linea:21, Columna: 8;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:21, Columna: 9;
+<Simbolo especial ASSIGN: '='>
+linea:21, Columna: 10;
+<TOKEN ID: 'aux'>
+linea:21, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:22, Columna: 5;
+<TOKEN ID: 'j'>
+linea:22, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:22, Columna: 7;
+<TOKEN ID: 'j'>
+linea:22, Columna: 8;
+<Simbolo especial RESTA: '-'>
+linea:22, Columna: 9;
+<TOKEN ID: 'inter'>
+linea:22, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:23, Columna: 4;
+<Simbolo especial BRACERIGHT: '}'>
+linea:24, Columna: 3;
+<Simbolo especial BRACERIGHT: '}'>
+linea:25, Columna: 2;
+<Simbolo especial BRACERIGHT: '}'>
+linea:26, Columna: 2;
+<TOKEN ID: 'inter'>
+linea:26, Columna: 7;
+<Simbolo especial ASSIGN: '='>
+linea:26, Columna: 8;
+<TOKEN ID: 'inter'>
+linea:26, Columna: 13;
+<Simbolo especial DIV: '/'>
+linea:26, Columna: 14;
+<TOKEN NUM: '2'>
+linea:26, Columna: 15;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:27, Columna: 1;
+<Simbolo especial BRACERIGHT: '}'>
+linea:29, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+FIN DE ARCHIVO
+------------------------------------
+
+RESULTADOS DEL ARCHIVO: ejemplo2.txt
+linea:0, Columna: 0;
+<Simbolo especial COMENTARIO: '/*este es el metodo de ordenamieto Burbuja*/'>
+linea:1, Columna: 0;
+<palabra clave INT: 'int'>
+linea:1, Columna: 4;
+<TOKEN ID: 'main'>
+linea:1, Columna: 9;
+<Simbolo especial PARENTHLEFT: '('>
+linea:1, Columna: 10;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:2, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:3, Columna: 1;
+<palabra clave INT: 'int'>
+linea:3, Columna: 5;
+<TOKEN ID: 'aux'>
+linea:3, Columna: 8;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:4, Columna: 1;
+<palabra clave INT: 'int'>
+linea:4, Columna: 5;
+<TOKEN ID: 'i'>
+linea:4, Columna: 6;
+<Simbolo especial COMA: ','>
+linea:4, Columna: 7;
+<TOKEN ID: 'j'>
+linea:4, Columna: 8;
+<Simbolo especial COMA: ','>
+linea:4, Columna: 9;
+<TOKEN ID: 'k'>
+linea:4, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:5, Columna: 1;
+<palabra clave INT: 'int'>
+linea:5, Columna: 5;
+<TOKEN ID: 'n'>
+linea:5, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:5, Columna: 7;
+<TOKEN NUM: '10'>
+linea:5, Columna: 9;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:6, Columna: 1;
+<palabra clave INT: 'int'>
+linea:6, Columna: 5;
+<TOKEN ID: '_A'>
+linea:6, Columna: 7;
+<Simbolo especial BRACKETLEFT: '['>
+linea:6, Columna: 8;
+<TOKEN ID: 'n'>
+linea:6, Columna: 9;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:6, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:7, Columna: 1;
+<Simbolo especial COMENTARIO: '//comienzo del ordenamiento.
+'>
+linea:8, Columna: 1;
+<TOKEN ID: 'for'>
+linea:8, Columna: 5;
+<Simbolo especial PARENTHLEFT: '('>
+linea:8, Columna: 6;
+<TOKEN ID: 'i'>
+linea:8, Columna: 7;
+<Simbolo especial ASSIGN: '='>
+linea:8, Columna: 8;
+<TOKEN NUM: '0'>
+linea:8, Columna: 9;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:8, Columna: 10;
+<TOKEN ID: 'i'>
+linea:8, Columna: 11;
+<Simbolo especial MENOR: '<'>
+linea:8, Columna: 12;
+<TOKEN ID: 'n'>
+linea:8, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:8, Columna: 14;
+<TOKEN ID: 'i'>
+linea:8, Columna: 15;
+<Simbolo especial SUMA: '+'>
+linea:8, Columna: 16;
+<Simbolo especial SUMA: '+'>
+linea:8, Columna: 17;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:9, Columna: 1;
+<Simbolo especial BRACELEFT: '{'>
+linea:10, Columna: 2;
+<TOKEN ID: 'for'>
+linea:10, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:10, Columna: 7;
+<TOKEN ID: 'j'>
+linea:10, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:10, Columna: 9;
+<TOKEN NUM: '0'>
+linea:10, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:10, Columna: 11;
+<TOKEN ID: 'j'>
+linea:10, Columna: 12;
+<Simbolo especial MENOR: '<'>
+linea:10, Columna: 13;
+<TOKEN ID: 'n'>
+linea:10, Columna: 14;
+<Simbolo especial RESTA: '-'>
+linea:10, Columna: 15;
+<TOKEN ID: 'i'>
+linea:10, Columna: 16;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:10, Columna: 17;
+<TOKEN ID: 'j'>
+linea:10, Columna: 18;
+<Simbolo especial SUMA: '+'>
+linea:10, Columna: 19;
+<Simbolo especial SUMA: '+'>
+linea:10, Columna: 20;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:11, Columna: 2;
+<Simbolo especial BRACELEFT: '{'>
+linea:12, Columna: 3;
+<palabra clave IF: 'if'>
+linea:12, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:12, Columna: 7;
+<TOKEN ID: '_A'>
+linea:12, Columna: 9;
+<Simbolo especial BRACKETLEFT: '['>
+linea:12, Columna: 10;
+<TOKEN ID: 'j'>
+linea:12, Columna: 11;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:12, Columna: 12;
+<Simbolo especial MAYIGUAL: '>='>
+linea:12, Columna: 14;
+<TOKEN ID: '_A'>
+linea:12, Columna: 16;
+<Simbolo especial BRACKETLEFT: '['>
+linea:12, Columna: 17;
+<TOKEN ID: 'j'>
+linea:12, Columna: 18;
+<Simbolo especial SUMA: '+'>
+linea:12, Columna: 19;
+<TOKEN NUM: '1'>
+linea:12, Columna: 20;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:12, Columna: 21;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:13, Columna: 3;
+<Simbolo especial BRACELEFT: '{'>
+linea:14, Columna: 4;
+<TOKEN ID: 'aux'>
+linea:14, Columna: 7;
+<Simbolo especial ASSIGN: '='>
+linea:14, Columna: 8;
+<TOKEN ID: '_A'>
+linea:14, Columna: 10;
+<Simbolo especial BRACKETLEFT: '['>
+linea:14, Columna: 11;
+<TOKEN ID: 'j'>
+linea:14, Columna: 12;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:14, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:15, Columna: 4;
+<TOKEN ID: '_A'>
+linea:15, Columna: 6;
+<Simbolo especial BRACKETLEFT: '['>
+linea:15, Columna: 7;
+<TOKEN ID: 'j'>
+linea:15, Columna: 8;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:15, Columna: 9;
+<Simbolo especial ASSIGN: '='>
+linea:15, Columna: 10;
+<TOKEN ID: '_A'>
+linea:15, Columna: 12;
+<Simbolo especial BRACKETLEFT: '['>
+linea:15, Columna: 13;
+<TOKEN ID: 'j'>
+linea:15, Columna: 14;
+<Simbolo especial SUMA: '+'>
+linea:15, Columna: 15;
+<TOKEN NUM: '1'>
+linea:15, Columna: 16;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:15, Columna: 17;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:16, Columna: 4;
+<TOKEN ID: '_A'>
+linea:16, Columna: 6;
+<Simbolo especial BRACKETLEFT: '['>
+linea:16, Columna: 7;
+<TOKEN ID: 'j'>
+linea:16, Columna: 8;
+<Simbolo especial SUMA: '+'>
+linea:16, Columna: 9;
+<TOKEN NUM: '1'>
+linea:16, Columna: 10;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:16, Columna: 11;
+<Simbolo especial ASSIGN: '='>
+linea:16, Columna: 12;
+<TOKEN ID: 'aux'>
+linea:16, Columna: 15;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:17, Columna: 3;
+<Simbolo especial BRACERIGHT: '}'>
+linea:19, Columna: 2;
+<Simbolo especial BRACERIGHT: '}'>
+linea:21, Columna: 1;
+<Simbolo especial BRACERIGHT: '}'>
+linea:22, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+FIN DE ARCHIVO
+------------------------------------
+
+RESULTADOS DEL ARCHIVO: ejemplo3.txt
+linea:0, Columna: 0;
+<Simbolo especial COMENTARIO: '/*este es el metodo de ordenamiento por seleccion directa*/'>
+linea:1, Columna: 0;
+<palabra clave INT: 'int'>
+linea:1, Columna: 4;
+<TOKEN ID: 'x'>
+linea:1, Columna: 5;
+<Simbolo especial BRACKETLEFT: '['>
+linea:1, Columna: 6;
+<TOKEN NUM: '4'>
+linea:1, Columna: 7;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:1, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:1, Columna: 9;
+<Simbolo especial BRACELEFT: '{'>
+linea:1, Columna: 10;
+<TOKEN NUM: '1'>
+linea:1, Columna: 11;
+<Simbolo especial COMA: ','>
+linea:1, Columna: 12;
+<TOKEN NUM: '4'>
+linea:1, Columna: 13;
+<Simbolo especial COMA: ','>
+linea:1, Columna: 14;
+<TOKEN NUM: '8'>
+linea:1, Columna: 15;
+<Simbolo especial COMA: ','>
+linea:1, Columna: 16;
+<TOKEN NUM: '6'>
+linea:1, Columna: 17;
+<Simbolo especial BRACERIGHT: '}'>
+linea:1, Columna: 18;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:2, Columna: 0;
+<palabra clave INT: 'int'>
+linea:2, Columna: 4;
+<TOKEN ID: 'n'>
+linea:2, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:2, Columna: 6;
+<TOKEN NUM: '4'>
+linea:2, Columna: 7;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 8;
+<TOKEN ID: 'j'>
+linea:2, Columna: 9;
+<Simbolo especial ASSIGN: '='>
+linea:2, Columna: 10;
+<TOKEN NUM: '0'>
+linea:2, Columna: 11;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 12;
+<TOKEN ID: 'i'>
+linea:2, Columna: 13;
+<Simbolo especial ASSIGN: '='>
+linea:2, Columna: 14;
+<TOKEN NUM: '0'>
+linea:2, Columna: 15;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:3, Columna: 0;
+<palabra clave INT: 'int'>
+linea:3, Columna: 4;
+<TOKEN ID: 'temp'>
+linea:3, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:3, Columna: 9;
+<TOKEN NUM: '0'>
+linea:3, Columna: 10;
+<Simbolo especial COMA: ','>
+linea:3, Columna: 11;
+<TOKEN ID: 'minimo'>
+linea:3, Columna: 17;
+<Simbolo especial ASSIGN: '='>
+linea:3, Columna: 18;
+<TOKEN NUM: '0'>
+linea:3, Columna: 19;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:3, Columna: 19;
+<palabra clave VOID: 'void'>
+linea:4, Columna: 5;
+<TOKEN ID: 'main'>
+linea:4, Columna: 9;
+<Simbolo especial PARENTHLEFT: '('>
+linea:4, Columna: 10;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:4, Columna: 11;
+<Simbolo especial BRACELEFT: '{'>
+linea:5, Columna: 1;
+<TOKEN ID: 'clrscr'>
+linea:5, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:5, Columna: 8;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:5, Columna: 9;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:6, Columna: 1;
+<TOKEN ID: 'for'>
+linea:6, Columna: 4;
+<Simbolo especial PARENTHLEFT: '('>
+linea:6, Columna: 5;
+<TOKEN ID: 'i'>
+linea:6, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:6, Columna: 7;
+<TOKEN NUM: '0'>
+linea:6, Columna: 8;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:6, Columna: 9;
+<TOKEN ID: 'i'>
+linea:6, Columna: 10;
+<Simbolo especial MENOR: '<'>
+linea:6, Columna: 11;
+<TOKEN ID: 'n'>
+linea:6, Columna: 12;
+<Simbolo especial RESTA: '-'>
+linea:6, Columna: 13;
+<TOKEN NUM: '1'>
+linea:6, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:6, Columna: 15;
+<TOKEN ID: 'i'>
+linea:6, Columna: 16;
+<Simbolo especial SUMA: '+'>
+linea:6, Columna: 17;
+<Simbolo especial SUMA: '+'>
+linea:6, Columna: 18;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:7, Columna: 1;
+<Simbolo especial BRACELEFT: '{'>
+linea:8, Columna: 2;
+<TOKEN ID: 'minimo'>
+linea:8, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:8, Columna: 9;
+<TOKEN ID: 'i'>
+linea:8, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 2;
+<TOKEN ID: 'for'>
+linea:9, Columna: 5;
+<Simbolo especial PARENTHLEFT: '('>
+linea:9, Columna: 6;
+<TOKEN ID: 'j'>
+linea:9, Columna: 7;
+<Simbolo especial ASSIGN: '='>
+linea:9, Columna: 8;
+<TOKEN ID: 'i'>
+linea:9, Columna: 9;
+<Simbolo especial SUMA: '+'>
+linea:9, Columna: 10;
+<TOKEN NUM: '1'>
+linea:9, Columna: 11;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 12;
+<TOKEN ID: 'j'>
+linea:9, Columna: 13;
+<Simbolo especial MENOR: '<'>
+linea:9, Columna: 14;
+<TOKEN ID: 'n'>
+linea:9, Columna: 15;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 16;
+<TOKEN ID: 'j'>
+linea:9, Columna: 17;
+<Simbolo especial SUMA: '+'>
+linea:9, Columna: 18;
+<Simbolo especial SUMA: '+'>
+linea:9, Columna: 19;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:10, Columna: 2;
+<Simbolo especial BRACELEFT: '{'>
+linea:11, Columna: 3;
+<palabra clave IF: 'if'>
+linea:11, Columna: 5;
+<Simbolo especial PARENTHLEFT: '('>
+linea:11, Columna: 6;
+<TOKEN ID: 'x'>
+linea:11, Columna: 7;
+<Simbolo especial BRACKETLEFT: '['>
+linea:11, Columna: 8;
+<TOKEN ID: 'minimo'>
+linea:11, Columna: 14;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:11, Columna: 16;
+<Simbolo especial MAYOR: '>'>
+linea:11, Columna: 18;
+<TOKEN ID: 'x'>
+linea:11, Columna: 19;
+<Simbolo especial BRACKETLEFT: '['>
+linea:11, Columna: 20;
+<TOKEN ID: 'j'>
+linea:11, Columna: 21;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:11, Columna: 22;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:12, Columna: 3;
+<Simbolo especial BRACELEFT: '{'>
+linea:13, Columna: 4;
+<TOKEN ID: 'minimo'>
+linea:13, Columna: 10;
+<Simbolo especial ASSIGN: '='>
+linea:13, Columna: 11;
+<TOKEN ID: 'j'>
+linea:13, Columna: 12;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:14, Columna: 3;
+<Simbolo especial BRACERIGHT: '}'>
+linea:15, Columna: 2;
+<Simbolo especial BRACERIGHT: '}'>
+linea:16, Columna: 2;
+<TOKEN ID: 'temp'>
+linea:16, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:16, Columna: 7;
+<TOKEN ID: 'x'>
+linea:16, Columna: 8;
+<Simbolo especial BRACKETLEFT: '['>
+linea:16, Columna: 9;
+<TOKEN ID: 'minimo'>
+linea:16, Columna: 15;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:16, Columna: 16;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:17, Columna: 2;
+<TOKEN ID: 'x'>
+linea:17, Columna: 3;
+<Simbolo especial BRACKETLEFT: '['>
+linea:17, Columna: 4;
+<TOKEN ID: 'minimo'>
+linea:17, Columna: 10;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:17, Columna: 11;
+<Simbolo especial ASSIGN: '='>
+linea:17, Columna: 12;
+<TOKEN ID: 'x'>
+linea:17, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:18, Columna: 2;
+<TOKEN ID: 'x'>
+linea:18, Columna: 3;
+<Simbolo especial ASSIGN: '='>
+linea:18, Columna: 4;
+<TOKEN ID: 'temp'>
+linea:18, Columna: 8;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:19, Columna: 1;
+<Simbolo especial BRACERIGHT: '}'>
+linea:20, Columna: 2;
+<TOKEN ID: 'getch'>
+linea:20, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:20, Columna: 8;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:20, Columna: 9;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:21, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+FIN DE ARCHIVO
+------------------------------------
+
+RESULTADOS DEL ARCHIVO: ejemplo4.txt
+linea:0, Columna: 0;
+<Simbolo especial COMENTARIO: '/*alternativa al metodo de ordenamieto QuickSort*/'>
+linea:0, Columna: 0;
+<palabra clave VOID: 'void'>
+linea:2, Columna: 5;
+<TOKEN ID: 'qs'>
+linea:2, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:2, Columna: 8;
+<palabra clave INT: 'int'>
+linea:2, Columna: 12;
+<TOKEN ID: 'lista'>
+linea:2, Columna: 17;
+<Simbolo especial BRACKETLEFT: '['>
+linea:2, Columna: 18;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:2, Columna: 19;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 20;
+<palabra clave INT: 'int'>
+linea:2, Columna: 24;
+<TOKEN ID: 'limite'>
+linea:2, Columna: 30;
+<TOKEN ID: '_izq'>
+linea:2, Columna: 34;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 36;
+<palabra clave INT: 'int'>
+linea:2, Columna: 40;
+<TOKEN ID: 'limite'>
+linea:2, Columna: 46;
+<TOKEN ID: '_der'>
+linea:2, Columna: 50;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:2, Columna: 51;
+<Simbolo especial BRACELEFT: '{'>
+linea:3, Columna: 0;
+<palabra clave INT: 'int'>
+linea:3, Columna: 4;
+<TOKEN ID: 'izq'>
+linea:3, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:3, Columna: 10;
+<TOKEN ID: 'limite'>
+linea:3, Columna: 16;
+<TOKEN ID: '_izq'>
+linea:3, Columna: 20;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:4, Columna: 0;
+<palabra clave INT: 'int'>
+linea:4, Columna: 4;
+<TOKEN ID: 'der'>
+linea:4, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:4, Columna: 10;
+<TOKEN ID: 'limite'>
+linea:4, Columna: 16;
+<TOKEN ID: '_der'>
+linea:4, Columna: 20;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:5, Columna: 0;
+<palabra clave INT: 'int'>
+linea:5, Columna: 4;
+<TOKEN ID: 'aux'>
+linea:5, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:5, Columna: 7;
+<palabra clave WHILE: 'while'>
+linea:6, Columna: 5;
+<Simbolo especial PARENTHLEFT: '('>
+linea:6, Columna: 6;
+<TOKEN ID: 'izq'>
+linea:6, Columna: 10;
+<TOKEN ID: 'a'>
+linea:6, Columna: 11;
+<Simbolo especial BRACKETLEFT: '['>
+linea:6, Columna: 12;
+<TOKEN ID: 'izq'>
+linea:6, Columna: 15;
+<Simbolo especial SUMA: '+'>
+linea:6, Columna: 16;
+<TOKEN NUM: '1'>
+linea:6, Columna: 17;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:6, Columna: 18;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:6, Columna: 19;
+<Simbolo especial BRACELEFT: '{'>
+linea:7, Columna: 0;
+<TOKEN ID: 'aux'>
+linea:7, Columna: 4;
+<Simbolo especial ASSIGN: '='>
+linea:7, Columna: 6;
+<TOKEN ID: 'a'>
+linea:7, Columna: 7;
+<Simbolo especial BRACKETLEFT: '['>
+linea:7, Columna: 8;
+<TOKEN ID: 'izq'>
+linea:7, Columna: 11;
+<Simbolo especial SUMA: '+'>
+linea:7, Columna: 12;
+<TOKEN NUM: '1'>
+linea:7, Columna: 13;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:7, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:8, Columna: 0;
+<TOKEN ID: 'a'>
+linea:8, Columna: 1;
+<Simbolo especial BRACKETLEFT: '['>
+linea:8, Columna: 2;
+<TOKEN ID: 'izq'>
+linea:8, Columna: 5;
+<Simbolo especial SUMA: '+'>
+linea:8, Columna: 6;
+<TOKEN NUM: '1'>
+linea:8, Columna: 7;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:8, Columna: 9;
+<Simbolo especial ASSIGN: '='>
+linea:8, Columna: 11;
+<TOKEN ID: 'a'>
+linea:8, Columna: 12;
+<Simbolo especial BRACKETLEFT: '['>
+linea:8, Columna: 13;
+<TOKEN ID: 'izq'>
+linea:8, Columna: 16;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:8, Columna: 17;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 0;
+<TOKEN ID: 'a'>
+linea:9, Columna: 1;
+<Simbolo especial BRACKETLEFT: '['>
+linea:9, Columna: 2;
+<TOKEN ID: 'izq'>
+linea:9, Columna: 5;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:9, Columna: 7;
+<Simbolo especial ASSIGN: '='>
+linea:9, Columna: 9;
+<TOKEN ID: 'aux'>
+linea:9, Columna: 12;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:10, Columna: 0;
+<TOKEN ID: 'izq'>
+linea:10, Columna: 3;
+<Simbolo especial SUMA: '+'>
+linea:10, Columna: 4;
+<Simbolo especial SUMA: '+'>
+linea:10, Columna: 5;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:11, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:11, Columna: 1;
+<palabra clave ELSE: 'else'>
+linea:11, Columna: 5;
+<Simbolo especial BRACELEFT: '{'>
+linea:12, Columna: 0;
+<TOKEN ID: 'aux'>
+linea:12, Columna: 4;
+<Simbolo especial ASSIGN: '='>
+linea:12, Columna: 6;
+<TOKEN ID: 'a'>
+linea:12, Columna: 7;
+<Simbolo especial BRACKETLEFT: '['>
+linea:12, Columna: 8;
+<TOKEN ID: 'izq'>
+linea:12, Columna: 11;
+<Simbolo especial SUMA: '+'>
+linea:12, Columna: 12;
+<TOKEN NUM: '1'>
+linea:12, Columna: 13;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:12, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:13, Columna: 0;
+<TOKEN ID: 'a'>
+linea:13, Columna: 1;
+<Simbolo especial BRACKETLEFT: '['>
+linea:13, Columna: 2;
+<TOKEN ID: 'izq'>
+linea:13, Columna: 5;
+<Simbolo especial SUMA: '+'>
+linea:13, Columna: 6;
+<TOKEN NUM: '1'>
+linea:13, Columna: 7;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:13, Columna: 9;
+<Simbolo especial ASSIGN: '='>
+linea:13, Columna: 11;
+<TOKEN ID: 'a'>
+linea:13, Columna: 12;
+<Simbolo especial BRACKETLEFT: '['>
+linea:13, Columna: 13;
+<TOKEN ID: 'der'>
+linea:13, Columna: 16;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:13, Columna: 17;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:14, Columna: 0;
+<TOKEN ID: 'a'>
+linea:14, Columna: 1;
+<Simbolo especial BRACKETLEFT: '['>
+linea:14, Columna: 2;
+<TOKEN ID: 'der'>
+linea:14, Columna: 5;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:14, Columna: 7;
+<Simbolo especial ASSIGN: '='>
+linea:14, Columna: 9;
+<TOKEN ID: 'aux'>
+linea:14, Columna: 12;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:15, Columna: 0;
+<TOKEN ID: 'der'>
+linea:15, Columna: 3;
+<Simbolo especial RESTA: '-'>
+linea:15, Columna: 4;
+<Simbolo especial RESTA: '-'>
+linea:15, Columna: 5;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:16, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:18, Columna: 0;
+<palabra clave IF: 'if'>
+linea:18, Columna: 2;
+<Simbolo especial PARENTHLEFT: '('>
+linea:18, Columna: 3;
+<TOKEN ID: 'izq'>
+linea:18, Columna: 7;
+<TOKEN ID: 'd'>
+linea:18, Columna: 8;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:18, Columna: 9;
+<Simbolo especial BRACELEFT: '{'>
+linea:18, Columna: 10;
+<TOKEN ID: 'qsAux'>
+linea:18, Columna: 15;
+<Simbolo especial PARENTHLEFT: '('>
+linea:18, Columna: 16;
+<TOKEN ID: 'a'>
+linea:18, Columna: 17;
+<Simbolo especial COMA: ','>
+linea:18, Columna: 18;
+<TOKEN ID: 'd'>
+linea:18, Columna: 19;
+<Simbolo especial COMA: ','>
+linea:18, Columna: 20;
+<TOKEN ID: 'der'>
+linea:18, Columna: 23;
+<Simbolo especial RESTA: '-'>
+linea:18, Columna: 24;
+<TOKEN NUM: '1'>
+linea:18, Columna: 25;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:18, Columna: 26;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:18, Columna: 27;
+<Simbolo especial BRACERIGHT: '}'>
+linea:20, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:22, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+FIN DE ARCHIVO
+------------------------------------
+
+RESULTADOS DEL ARCHIVO: ejemplo5.txt
+linea:0, Columna: 0;
+<Simbolo especial COMENTARIO: '//volumen de un cuadrado.
+'>
+linea:1, Columna: 0;
+<palabra clave INT: 'int'>
+linea:1, Columna: 4;
+<TOKEN ID: 'cuadrado'>
+linea:1, Columna: 12;
+<Simbolo especial PARENTHLEFT: '('>
+linea:1, Columna: 13;
+<palabra clave INT: 'int'>
+linea:1, Columna: 17;
+<TOKEN ID: 'a1'>
+linea:1, Columna: 19;
+<Simbolo especial COMA: ','>
+linea:1, Columna: 21;
+<palabra clave INT: 'int'>
+linea:1, Columna: 25;
+<TOKEN ID: 'b1'>
+linea:1, Columna: 27;
+<Simbolo especial COMA: ','>
+linea:1, Columna: 29;
+<palabra clave INT: 'int'>
+linea:1, Columna: 33;
+<TOKEN ID: 'c1'>
+linea:1, Columna: 35;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:1, Columna: 36;
+<Simbolo especial BRACELEFT: '{'>
+linea:2, Columna: 0;
+<palabra clave INT: 'int'>
+linea:2, Columna: 4;
+<TOKEN ID: 'vo'>
+linea:2, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:2, Columna: 8;
+<TOKEN ID: 'a1'>
+linea:2, Columna: 10;
+<Simbolo especial MULT: '*'>
+linea:2, Columna: 11;
+<TOKEN ID: 'b1'>
+linea:2, Columna: 13;
+<Simbolo especial MULT: '*'>
+linea:2, Columna: 14;
+<TOKEN ID: 'c1'>
+linea:2, Columna: 16;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:3, Columna: 0;
+<palabra clave RETURN: 'return'>
+linea:3, Columna: 7;
+<TOKEN ID: 'vo'>
+linea:3, Columna: 9;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:4, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:6, Columna: 0;
+<palabra clave INT: 'int'>
+linea:6, Columna: 4;
+<TOKEN ID: 'sumaNumeros'>
+linea:6, Columna: 15;
+<Simbolo especial PARENTHLEFT: '('>
+linea:6, Columna: 16;
+<palabra clave INT: 'int'>
+linea:6, Columna: 20;
+<TOKEN ID: 'x'>
+linea:6, Columna: 21;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:6, Columna: 22;
+<Simbolo especial BRACELEFT: '{'>
+linea:7, Columna: 0;
+<palabra clave INT: 'int'>
+linea:7, Columna: 4;
+<TOKEN ID: 'suma'>
+linea:7, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:7, Columna: 9;
+<TOKEN NUM: '0'>
+linea:7, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 0;
+<TOKEN ID: 'for'>
+linea:9, Columna: 3;
+<Simbolo especial PARENTHLEFT: '('>
+linea:9, Columna: 4;
+<palabra clave INT: 'int'>
+linea:9, Columna: 8;
+<TOKEN ID: 'i'>
+linea:9, Columna: 9;
+<Simbolo especial ASSIGN: '='>
+linea:9, Columna: 10;
+<TOKEN NUM: '1'>
+linea:9, Columna: 11;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 13;
+<TOKEN ID: 'i'>
+linea:9, Columna: 14;
+<Simbolo especial MENIGUAL: '<='>
+linea:9, Columna: 16;
+<TOKEN NUM: '8'>
+linea:9, Columna: 17;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 19;
+<TOKEN ID: 'i'>
+linea:9, Columna: 20;
+<Simbolo especial SUMA: '+'>
+linea:9, Columna: 21;
+<Simbolo especial SUMA: '+'>
+linea:9, Columna: 22;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:9, Columna: 23;
+<Simbolo especial BRACELEFT: '{'>
+linea:10, Columna: 0;
+<TOKEN ID: 'suma'>
+linea:10, Columna: 4;
+<Simbolo especial SUMA: '+'>
+linea:10, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:10, Columna: 6;
+<TOKEN ID: 'x'>
+linea:10, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:11, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:12, Columna: 0;
+<palabra clave RETURN: 'return'>
+linea:12, Columna: 7;
+<TOKEN ID: 'suma'>
+linea:12, Columna: 11;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:13, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:15, Columna: 0;
+<palabra clave INT: 'int'>
+linea:15, Columna: 4;
+<TOKEN ID: 'salario'>
+linea:15, Columna: 11;
+<Simbolo especial PARENTHLEFT: '('>
+linea:15, Columna: 12;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:15, Columna: 13;
+<Simbolo especial BRACELEFT: '{'>
+linea:16, Columna: 1;
+<TOKEN ID: 'char'>
+linea:16, Columna: 6;
+<TOKEN ID: 'resp'>
+linea:16, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:17, Columna: 0;
+<TOKEN ID: 'const'>
+linea:17, Columna: 6;
+<palabra clave INT: 'int'>
+linea:17, Columna: 10;
+<TOKEN ID: '_JORNADA'>
+linea:17, Columna: 18;
+<Simbolo especial ASSIGN: '='>
+linea:17, Columna: 19;
+<TOKEN NUM: '35'>
+linea:17, Columna: 21;
+<Simbolo especial COMA: ','>
+linea:17, Columna: 23;
+<TOKEN ID: '_PRECIO'>
+linea:17, Columna: 30;
+<TOKEN ID: '_NORMAL'>
+linea:17, Columna: 37;
+<Simbolo especial ASSIGN: '='>
+linea:17, Columna: 38;
+<TOKEN NUM: '12'>
+linea:17, Columna: 40;
+<Simbolo especial COMA: ','>
+linea:17, Columna: 42;
+<TOKEN ID: '_PRECIO'>
+linea:17, Columna: 49;
+<TOKEN ID: '_EXTRA'>
+linea:17, Columna: 55;
+<Simbolo especial ASSIGN: '='>
+linea:17, Columna: 56;
+<TOKEN NUM: '22'>
+linea:17, Columna: 58;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:18, Columna: 0;
+<palabra clave INT: 'int'>
+linea:18, Columna: 4;
+<TOKEN ID: 'horas'>
+linea:18, Columna: 9;
+<Simbolo especial COMA: ','>
+linea:18, Columna: 11;
+<TOKEN ID: 'salario'>
+linea:18, Columna: 18;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:19, Columna: 0;
+<palabra clave INT: 'int'>
+linea:19, Columna: 4;
+<TOKEN ID: 'cont'>
+linea:19, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:19, Columna: 9;
+<TOKEN NUM: '0'>
+linea:19, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:20, Columna: 0;
+<palabra clave DO: 'do'>
+linea:20, Columna: 2;
+<Simbolo especial BRACELEFT: '{'>
+linea:21, Columna: 0;
+<TOKEN ID: 'horas'>
+linea:21, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:21, Columna: 6;
+<TOKEN NUM: '8'>
+linea:21, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:23, Columna: 0;
+<palabra clave IF: 'if'>
+linea:23, Columna: 2;
+<Simbolo especial PARENTHLEFT: '('>
+linea:23, Columna: 3;
+<TOKEN ID: 'horas'>
+linea:23, Columna: 8;
+<Simbolo especial MENIGUAL: '<='>
+linea:23, Columna: 10;
+<TOKEN NUM: '35'>
+linea:23, Columna: 12;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:23, Columna: 14;
+<TOKEN ID: 'salario'>
+linea:23, Columna: 21;
+<Simbolo especial ASSIGN: '='>
+linea:23, Columna: 22;
+<TOKEN ID: 'horas'>
+linea:23, Columna: 27;
+<Simbolo especial MULT: '*'>
+linea:23, Columna: 28;
+<TOKEN ID: '_PRECIO'>
+linea:23, Columna: 35;
+<TOKEN ID: '_NORMAL'>
+linea:23, Columna: 42;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:24, Columna: 0;
+<palabra clave ELSE: 'else'>
+linea:24, Columna: 5;
+<TOKEN ID: 'salario'>
+linea:24, Columna: 12;
+<Simbolo especial ASSIGN: '='>
+linea:24, Columna: 13;
+<TOKEN ID: '_JORNADA'>
+linea:24, Columna: 21;
+<Simbolo especial MULT: '*'>
+linea:24, Columna: 22;
+<TOKEN ID: '_PRECIO'>
+linea:24, Columna: 29;
+<TOKEN ID: '_NORMAL'>
+linea:24, Columna: 36;
+<Simbolo especial SUMA: '+'>
+linea:24, Columna: 37;
+<Simbolo especial PARENTHLEFT: '('>
+linea:24, Columna: 38;
+<TOKEN ID: 'horas'>
+linea:24, Columna: 43;
+<Simbolo especial RESTA: '-'>
+linea:24, Columna: 44;
+<TOKEN ID: '_JORNADA'>
+linea:24, Columna: 52;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:24, Columna: 53;
+<Simbolo especial MULT: '*'>
+linea:24, Columna: 54;
+<TOKEN ID: '_PRECIO'>
+linea:24, Columna: 61;
+<TOKEN ID: '_EXTRA'>
+linea:24, Columna: 67;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:27, Columna: 0;
+<TOKEN ID: 'fflush'>
+linea:27, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:27, Columna: 7;
+<TOKEN ID: 'stdin'>
+linea:27, Columna: 12;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:27, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:27, Columna: 15;
+<Simbolo especial COMENTARIO: '/* Para limpiar el buffer de teclado */'>
+linea:28, Columna: 0;
+<TOKEN ID: 'cont'>
+linea:28, Columna: 4;
+<Simbolo especial ASSIGN: '='>
+linea:28, Columna: 5;
+<TOKEN ID: 'cont'>
+linea:28, Columna: 9;
+<Simbolo especial SUMA: '+'>
+linea:28, Columna: 10;
+<TOKEN NUM: '1'>
+linea:28, Columna: 11;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:29, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:29, Columna: 0;
+<palabra clave WHILE: 'while'>
+linea:29, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:29, Columna: 8;
+<TOKEN ID: 'cont'>
+linea:29, Columna: 12;
+<Simbolo especial IGUALIGUAL: '=='>
+linea:29, Columna: 14;
+<TOKEN NUM: '10'>
+linea:29, Columna: 16;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:29, Columna: 17;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:30, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:30, Columna: 0;
+<palabra clave VOID: 'void'>
+linea:32, Columna: 5;
+<TOKEN ID: 'main'>
+linea:32, Columna: 9;
+<Simbolo especial PARENTHLEFT: '('>
+linea:32, Columna: 10;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:32, Columna: 11;
+<Simbolo especial BRACELEFT: '{'>
+linea:33, Columna: 1;
+<palabra clave INT: 'int'>
+linea:33, Columna: 5;
+<TOKEN ID: 'totalnumeros'>
+linea:33, Columna: 17;
+<Simbolo especial ASSIGN: '='>
+linea:33, Columna: 18;
+<TOKEN ID: 'sumaNumeros'>
+linea:33, Columna: 29;
+<Simbolo especial PARENTHLEFT: '('>
+linea:33, Columna: 30;
+<TOKEN NUM: '500'>
+linea:33, Columna: 33;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:33, Columna: 34;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:34, Columna: 1;
+<palabra clave INT: 'int'>
+linea:34, Columna: 5;
+<TOKEN ID: 'vol'>
+linea:34, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:34, Columna: 9;
+<TOKEN ID: 'cuadrado'>
+linea:34, Columna: 17;
+<Simbolo especial PARENTHLEFT: '('>
+linea:34, Columna: 18;
+<TOKEN NUM: '50'>
+linea:34, Columna: 20;
+<Simbolo especial COMA: ','>
+linea:34, Columna: 21;
+<TOKEN NUM: '50'>
+linea:34, Columna: 23;
+<Simbolo especial COMA: ','>
+linea:34, Columna: 24;
+<TOKEN NUM: '50'>
+linea:34, Columna: 26;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:34, Columna: 27;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:35, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+FIN DE ARCHIVO
+------------------------------------
+
+RESULTADOS DEL ARCHIVO: ejemplo6.txt
+linea:0, Columna: 0;
+<palabra clave VOID: 'void'>
+linea:0, Columna: 5;
+<TOKEN ID: 'main'>
+linea:0, Columna: 9;
+<Simbolo especial PARENTHLEFT: '('>
+linea:0, Columna: 10;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:1, Columna: 1;
+<Simbolo especial BRACELEFT: '{'>
+linea:2, Columna: 1;
+<TOKEN ID: 'float'>
+linea:2, Columna: 7;
+<TOKEN ID: 'sum'>
+linea:2, Columna: 10;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 12;
+<TOKEN ID: 'res'>
+linea:2, Columna: 15;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 17;
+<TOKEN ID: 'mul'>
+linea:2, Columna: 20;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 22;
+<TOKEN ID: 'div'>
+linea:2, Columna: 25;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 27;
+<TOKEN ID: 'num1'>
+linea:2, Columna: 31;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 33;
+<TOKEN ID: 'num2'>
+linea:2, Columna: 37;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:3, Columna: 1;
+<TOKEN ID: 'clrscr'>
+linea:3, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:3, Columna: 8;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:3, Columna: 9;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:4, Columna: 1;
+<TOKEN ID: 'printtf'>
+linea:4, Columna: 8;
+<Simbolo especial PARENTHLEFT: '('>
+linea:4, Columna: 9;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:4, Columna: 10;
+<Simbolo especial MULT: '*'>
+linea:4, Columna: 11;
+RESPUESTA: Error, simbolo no reconocido: 'CALCULA
+linea:4, Columna: 19;
+RESPUESTA: Error, simbolo no reconocido: 'LA
+linea:4, Columna: 22;
+RESPUESTA: Error, simbolo no reconocido: 'SUMA
+linea:4, Columna: 26;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:4, Columna: 28;
+RESPUESTA: Error, simbolo no reconocido: 'RESTA
+linea:4, Columna: 33;
+<Simbolo especial COMA: ','>
+linea:4, Columna: 35;
+RESPUESTA: Error, simbolo no reconocido: 'MULTIPLICACION
+linea:4, Columna: 50;
+RESPUESTA: Error, simbolo no reconocido: 'Y
+linea:4, Columna: 52;
+RESPUESTA: Error, simbolo no reconocido: 'DIVISION
+linea:4, Columna: 61;
+RESPUESTA: Error, simbolo no reconocido: 'DE
+linea:4, Columna: 64;
+<TOKEN NUM: '2'>
+linea:4, Columna: 66;
+RESPUESTA: Error, simbolo no reconocido: 'NUMEROS
+linea:4, Columna: 73;
+<Simbolo especial MULT: '*'>
+linea:4, Columna: 74;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:4, Columna: 75;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:4, Columna: 76;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:5, Columna: 1;
+<TOKEN ID: 'printf'>
+linea:5, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:5, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:5, Columna: 9;
+<TOKEN ID: 'introduzca'>
+linea:5, Columna: 20;
+<TOKEN ID: 'el'>
+linea:5, Columna: 23;
+<TOKEN ID: 'primer'>
+linea:5, Columna: 30;
+<TOKEN ID: 'numero'>
+linea:5, Columna: 36;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:5, Columna: 37;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:5, Columna: 38;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:6, Columna: 1;
+<TOKEN ID: 'scanf'>
+linea:6, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:6, Columna: 7;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:6, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:6, Columna: 9;
+<TOKEN ID: 'f'>
+linea:6, Columna: 10;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:6, Columna: 11;
+<Simbolo especial COMA: ','>
+linea:6, Columna: 12;
+RESPUESTA: Error, simbolo no reconocido: '&
+linea:6, Columna: 13;
+<TOKEN ID: 'num1'>
+linea:6, Columna: 17;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:6, Columna: 18;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:7, Columna: 1;
+<TOKEN ID: 'printf'>
+linea:7, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:7, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:7, Columna: 9;
+<TOKEN ID: 'intrduzca'>
+linea:7, Columna: 19;
+<TOKEN ID: 'el'>
+linea:7, Columna: 22;
+<TOKEN ID: 'segundo'>
+linea:7, Columna: 30;
+<TOKEN ID: 'numero'>
+linea:7, Columna: 36;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:7, Columna: 37;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:7, Columna: 38;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:8, Columna: 1;
+<TOKEN ID: 'scanf'>
+linea:8, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:8, Columna: 7;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:8, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:8, Columna: 9;
+<TOKEN ID: 'f'>
+linea:8, Columna: 10;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:8, Columna: 11;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 12;
+RESPUESTA: Error, simbolo no reconocido: '&
+linea:8, Columna: 13;
+<TOKEN ID: 'num2'>
+linea:8, Columna: 17;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:8, Columna: 18;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 1;
+<TOKEN ID: 'sum'>
+linea:9, Columna: 4;
+<Simbolo especial ASSIGN: '='>
+linea:9, Columna: 5;
+<TOKEN ID: 'num1'>
+linea:9, Columna: 9;
+<Simbolo especial SUMA: '+'>
+linea:9, Columna: 10;
+<TOKEN ID: 'num2'>
+linea:9, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:10, Columna: 1;
+<TOKEN ID: 'res'>
+linea:10, Columna: 4;
+<Simbolo especial ASSIGN: '='>
+linea:10, Columna: 5;
+<TOKEN ID: 'num1'>
+linea:10, Columna: 9;
+<Simbolo especial RESTA: '-'>
+linea:10, Columna: 10;
+<TOKEN ID: 'num2'>
+linea:10, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:11, Columna: 1;
+<TOKEN ID: 'mul'>
+linea:11, Columna: 4;
+<Simbolo especial ASSIGN: '='>
+linea:11, Columna: 5;
+<TOKEN ID: 'num1'>
+linea:11, Columna: 9;
+<Simbolo especial MULT: '*'>
+linea:11, Columna: 10;
+<TOKEN ID: 'num2'>
+linea:11, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:12, Columna: 1;
+<TOKEN ID: 'div'>
+linea:12, Columna: 4;
+<Simbolo especial ASSIGN: '='>
+linea:12, Columna: 5;
+<TOKEN ID: 'num1'>
+linea:12, Columna: 9;
+<Simbolo especial DIV: '/'>
+linea:12, Columna: 10;
+<TOKEN ID: 'num2'>
+linea:12, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:13, Columna: 1;
+<TOKEN ID: 'printf'>
+linea:13, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:13, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:13, Columna: 9;
+<TOKEN ID: 'la'>
+linea:13, Columna: 12;
+<TOKEN ID: 'suma'>
+linea:13, Columna: 17;
+<TOKEN ID: 'es'>
+linea:13, Columna: 20;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:13, Columna: 21;
+<TOKEN ID: 'f'>
+linea:13, Columna: 22;
+RESPUESTA: Error, simbolo no reconocido: '\
+linea:13, Columna: 23;
+<TOKEN ID: 'n'>
+linea:13, Columna: 24;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:13, Columna: 25;
+<Simbolo especial COMA: ','>
+linea:13, Columna: 27;
+<TOKEN ID: 'sum'>
+linea:13, Columna: 30;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:13, Columna: 31;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:14, Columna: 1;
+<TOKEN ID: 'printf'>
+linea:14, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:14, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:14, Columna: 9;
+<TOKEN ID: 'la'>
+linea:14, Columna: 12;
+<TOKEN ID: 'resta'>
+linea:14, Columna: 18;
+<TOKEN ID: 'es'>
+linea:14, Columna: 21;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:14, Columna: 22;
+<TOKEN ID: 'f'>
+linea:14, Columna: 23;
+RESPUESTA: Error, simbolo no reconocido: '\
+linea:14, Columna: 24;
+<TOKEN ID: 'n'>
+linea:14, Columna: 25;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:14, Columna: 26;
+<Simbolo especial COMA: ','>
+linea:14, Columna: 28;
+<TOKEN ID: 'res'>
+linea:14, Columna: 31;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:14, Columna: 32;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:15, Columna: 1;
+<TOKEN ID: 'printf'>
+linea:15, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:15, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:15, Columna: 9;
+<TOKEN ID: 'la'>
+linea:15, Columna: 12;
+<TOKEN ID: 'multiplicacion'>
+linea:15, Columna: 27;
+<TOKEN ID: 'es'>
+linea:15, Columna: 30;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:15, Columna: 31;
+<TOKEN ID: 'f'>
+linea:15, Columna: 32;
+RESPUESTA: Error, simbolo no reconocido: '\
+linea:15, Columna: 33;
+<TOKEN ID: 'n'>
+linea:15, Columna: 34;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:15, Columna: 35;
+<Simbolo especial COMA: ','>
+linea:15, Columna: 37;
+<TOKEN ID: 'mul'>
+linea:15, Columna: 40;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:15, Columna: 41;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:16, Columna: 1;
+<TOKEN ID: 'printf'>
+linea:16, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:16, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:16, Columna: 9;
+<TOKEN ID: 'la'>
+linea:16, Columna: 12;
+<TOKEN ID: 'division'>
+linea:16, Columna: 21;
+<TOKEN ID: 'es'>
+linea:16, Columna: 24;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:16, Columna: 25;
+<TOKEN ID: 'f'>
+linea:16, Columna: 26;
+RESPUESTA: Error, simbolo no reconocido: '\
+linea:16, Columna: 27;
+<TOKEN ID: 'n'>
+linea:16, Columna: 28;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:16, Columna: 29;
+<Simbolo especial COMA: ','>
+linea:16, Columna: 31;
+<TOKEN ID: 'div'>
+linea:16, Columna: 34;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:16, Columna: 35;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:17, Columna: 1;
+<TOKEN ID: 'getch'>
+linea:17, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:17, Columna: 7;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:17, Columna: 8;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:18, Columna: 1;
+<TOKEN ID: 'printf'>
+linea:18, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:18, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:18, Columna: 9;
+RESPUESTA: Error, simbolo no reconocido: 'Se
+linea:18, Columna: 12;
+<TOKEN ID: 'termina'>
+linea:18, Columna: 20;
+<TOKEN ID: 'el'>
+linea:18, Columna: 23;
+<TOKEN ID: 'ejercicio'>
+linea:18, Columna: 32;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:18, Columna: 33;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:18, Columna: 34;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:19, Columna: 1;
+<Simbolo especial BRACERIGHT: '}'>
+FIN DE ARCHIVO
+------------------------------------
+
+RESULTADOS DEL ARCHIVO: ejemplo7.txt
+linea:0, Columna: 0;
+<Simbolo especial COMENTARIO: '/*este es el metodo de ordenamiento por insercion*/'>
+linea:1, Columna: 0;
+<palabra clave INT: 'int'>
+linea:1, Columna: 4;
+<TOKEN ID: 'a'>
+linea:1, Columna: 5;
+<Simbolo especial BRACKETLEFT: '['>
+linea:1, Columna: 6;
+<TOKEN NUM: '4'>
+linea:1, Columna: 7;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:1, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:1, Columna: 9;
+<Simbolo especial BRACELEFT: '{'>
+linea:1, Columna: 10;
+<TOKEN NUM: '4'>
+linea:1, Columna: 11;
+<Simbolo especial COMA: ','>
+linea:1, Columna: 12;
+<TOKEN NUM: '1'>
+linea:1, Columna: 13;
+<Simbolo especial COMA: ','>
+linea:1, Columna: 14;
+<TOKEN NUM: '7'>
+linea:1, Columna: 15;
+<Simbolo especial COMA: ','>
+linea:1, Columna: 16;
+<TOKEN NUM: '2'>
+linea:1, Columna: 17;
+<Simbolo especial BRACERIGHT: '}'>
+linea:1, Columna: 18;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:2, Columna: 0;
+<palabra clave INT: 'int'>
+linea:2, Columna: 4;
+<TOKEN ID: 'n'>
+linea:2, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:2, Columna: 6;
+<TOKEN NUM: '4'>
+linea:2, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:3, Columna: 0;
+<palabra clave INT: 'int'>
+linea:3, Columna: 4;
+<TOKEN ID: 'i'>
+linea:3, Columna: 5;
+<Simbolo especial COMA: ','>
+linea:3, Columna: 6;
+<TOKEN ID: 'j'>
+linea:3, Columna: 7;
+<Simbolo especial COMA: ','>
+linea:3, Columna: 8;
+<TOKEN ID: 'aux'>
+linea:3, Columna: 11;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:3, Columna: 11;
+<palabra clave VOID: 'void'>
+linea:4, Columna: 5;
+<TOKEN ID: 'main'>
+linea:4, Columna: 9;
+<Simbolo especial PARENTHLEFT: '('>
+linea:4, Columna: 10;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:4, Columna: 11;
+<Simbolo especial BRACELEFT: '{'>
+linea:5, Columna: 1;
+<TOKEN ID: 'clrscr'>
+linea:5, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:5, Columna: 8;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:5, Columna: 9;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:6, Columna: 1;
+<Simbolo especial COMENTARIO: '//comienzo del metodo. 
+'>
+linea:7, Columna: 1;
+<TOKEN ID: 'for'>
+linea:7, Columna: 4;
+<Simbolo especial PARENTHLEFT: '('>
+linea:7, Columna: 5;
+<TOKEN ID: 'i'>
+linea:7, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:7, Columna: 7;
+<TOKEN NUM: '1'>
+linea:7, Columna: 8;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:7, Columna: 9;
+<TOKEN ID: 'i'>
+linea:7, Columna: 10;
+<Simbolo especial MENOR: '<'>
+linea:7, Columna: 11;
+<TOKEN ID: 'n'>
+linea:7, Columna: 12;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:7, Columna: 13;
+<TOKEN ID: 'i'>
+linea:7, Columna: 14;
+<Simbolo especial SUMA: '+'>
+linea:7, Columna: 15;
+<Simbolo especial SUMA: '+'>
+linea:7, Columna: 16;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:8, Columna: 1;
+<Simbolo especial BRACELEFT: '{'>
+linea:9, Columna: 2;
+<TOKEN ID: 'j'>
+linea:9, Columna: 3;
+<Simbolo especial ASSIGN: '='>
+linea:9, Columna: 4;
+<TOKEN ID: 'i'>
+linea:9, Columna: 5;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:10, Columna: 2;
+<TOKEN ID: 'aux'>
+linea:10, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:10, Columna: 6;
+<TOKEN ID: 'a'>
+linea:10, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:10, Columna: 7;
+<palabra clave WHILE: 'while'>
+linea:11, Columna: 7;
+<Simbolo especial PARENTHLEFT: '('>
+linea:11, Columna: 8;
+<TOKEN ID: 'j'>
+linea:11, Columna: 9;
+<Simbolo especial MAYOR: '>'>
+linea:11, Columna: 10;
+<TOKEN NUM: '0'>
+linea:11, Columna: 12;
+RESPUESTA: Error, simbolo no reconocido: '&
+linea:11, Columna: 13;
+RESPUESTA: Error, simbolo no reconocido: '&
+linea:11, Columna: 15;
+<TOKEN ID: 'aux'>
+linea:11, Columna: 18;
+<Simbolo especial MENOR: '<'>
+linea:11, Columna: 19;
+<TOKEN ID: 'a'>
+linea:11, Columna: 20;
+<Simbolo especial BRACKETLEFT: '['>
+linea:11, Columna: 21;
+<TOKEN ID: 'j'>
+linea:11, Columna: 22;
+<Simbolo especial RESTA: '-'>
+linea:11, Columna: 23;
+<TOKEN NUM: '1'>
+linea:11, Columna: 24;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:11, Columna: 25;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:12, Columna: 2;
+<Simbolo especial BRACELEFT: '{'>
+linea:13, Columna: 3;
+<TOKEN ID: 'a'>
+linea:13, Columna: 4;
+<Simbolo especial BRACKETLEFT: '['>
+linea:13, Columna: 5;
+<TOKEN ID: 'j'>
+linea:13, Columna: 6;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:13, Columna: 7;
+<Simbolo especial ASSIGN: '='>
+linea:13, Columna: 8;
+<TOKEN ID: 'a'>
+linea:13, Columna: 9;
+<Simbolo especial BRACKETLEFT: '['>
+linea:13, Columna: 10;
+<TOKEN ID: 'j'>
+linea:13, Columna: 11;
+<Simbolo especial RESTA: '-'>
+linea:13, Columna: 12;
+<TOKEN NUM: '1'>
+linea:13, Columna: 13;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:13, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:14, Columna: 3;
+<TOKEN ID: 'j'>
+linea:14, Columna: 4;
+<Simbolo especial RESTA: '-'>
+linea:14, Columna: 5;
+<Simbolo especial RESTA: '-'>
+linea:14, Columna: 6;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:15, Columna: 2;
+<Simbolo especial BRACERIGHT: '}'>
+linea:16, Columna: 2;
+<TOKEN ID: 'a'>
+linea:16, Columna: 3;
+<Simbolo especial BRACKETLEFT: '['>
+linea:16, Columna: 4;
+<TOKEN ID: 'j'>
+linea:16, Columna: 5;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:16, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:16, Columna: 7;
+<TOKEN ID: 'aux'>
+linea:16, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:17, Columna: 1;
+<Simbolo especial BRACERIGHT: '}'>
+linea:18, Columna: 1;
+<TOKEN ID: 'getch'>
+linea:18, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:18, Columna: 7;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:18, Columna: 8;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:19, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+FIN DE ARCHIVO
+------------------------------------
+
+RESULTADOS DEL ARCHIVO: ejemplo8.txt
+linea:0, Columna: 0;
+<palabra clave VOID: 'void'>
+linea:0, Columna: 5;
+<TOKEN ID: 'quicksort'>
+linea:0, Columna: 14;
+<Simbolo especial PARENTHLEFT: '('>
+linea:0, Columna: 15;
+<palabra clave INT: 'int'>
+linea:0, Columna: 19;
+<TOKEN ID: 'lista'>
+linea:0, Columna: 24;
+<Simbolo especial BRACKETLEFT: '['>
+linea:0, Columna: 25;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:0, Columna: 26;
+<Simbolo especial COMA: ','>
+linea:0, Columna: 27;
+<palabra clave INT: 'int'>
+linea:0, Columna: 31;
+<TOKEN ID: 'n'>
+linea:0, Columna: 32;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:1, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:2, Columna: 4;
+<TOKEN ID: 'qs'>
+linea:2, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:2, Columna: 7;
+<TOKEN ID: 'lista'>
+linea:2, Columna: 12;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 13;
+<TOKEN NUM: '0'>
+linea:2, Columna: 14;
+<Simbolo especial COMA: ','>
+linea:2, Columna: 15;
+<TOKEN ID: 'n'>
+linea:2, Columna: 16;
+<Simbolo especial RESTA: '-'>
+linea:2, Columna: 17;
+<TOKEN NUM: '1'>
+linea:2, Columna: 18;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:2, Columna: 19;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:3, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:5, Columna: 0;
+<palabra clave INT: 'int'>
+linea:5, Columna: 4;
+<TOKEN ID: 'main'>
+linea:5, Columna: 8;
+<Simbolo especial PARENTHLEFT: '('>
+linea:5, Columna: 9;
+<palabra clave INT: 'int'>
+linea:5, Columna: 13;
+<TOKEN ID: 'argc'>
+linea:5, Columna: 17;
+<Simbolo especial COMA: ','>
+linea:5, Columna: 19;
+<TOKEN ID: 'const'>
+linea:5, Columna: 25;
+<TOKEN ID: 'char'>
+linea:5, Columna: 30;
+<Simbolo especial MULT: '*'>
+linea:5, Columna: 32;
+<TOKEN ID: 'argv'>
+linea:5, Columna: 36;
+<Simbolo especial BRACKETLEFT: '['>
+linea:5, Columna: 37;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:5, Columna: 38;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:6, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:8, Columna: 4;
+<palabra clave INT: 'int'>
+linea:8, Columna: 8;
+<TOKEN ID: 'lista'>
+linea:8, Columna: 13;
+<Simbolo especial BRACKETLEFT: '['>
+linea:8, Columna: 14;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:8, Columna: 16;
+<Simbolo especial ASSIGN: '='>
+linea:8, Columna: 17;
+<Simbolo especial BRACELEFT: '{'>
+linea:8, Columna: 18;
+<TOKEN NUM: '100'>
+linea:8, Columna: 21;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 22;
+<TOKEN NUM: '56'>
+linea:8, Columna: 24;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 25;
+<TOKEN NUM: '0'>
+linea:8, Columna: 26;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 27;
+<TOKEN NUM: '1'>
+linea:8, Columna: 28;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 29;
+<Simbolo especial RESTA: '-'>
+linea:8, Columna: 30;
+<TOKEN NUM: '45'>
+linea:8, Columna: 32;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 33;
+<TOKEN NUM: '2'>
+linea:8, Columna: 34;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 35;
+<TOKEN NUM: '46'>
+linea:8, Columna: 37;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 38;
+<TOKEN NUM: '5'>
+linea:8, Columna: 39;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 40;
+<TOKEN NUM: '9'>
+linea:8, Columna: 41;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 42;
+<TOKEN NUM: '6'>
+linea:8, Columna: 43;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 44;
+<TOKEN NUM: '67'>
+linea:8, Columna: 46;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 47;
+<TOKEN NUM: '23'>
+linea:8, Columna: 49;
+<Simbolo especial COMA: ','>
+linea:8, Columna: 50;
+<TOKEN NUM: '5'>
+linea:8, Columna: 51;
+<Simbolo especial BRACERIGHT: '}'>
+linea:8, Columna: 52;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:9, Columna: 4;
+<palabra clave INT: 'int'>
+linea:9, Columna: 8;
+<TOKEN ID: 'size'>
+linea:9, Columna: 13;
+<Simbolo especial ASSIGN: '='>
+linea:9, Columna: 15;
+<TOKEN ID: 'sizeof'>
+linea:9, Columna: 21;
+<Simbolo especial PARENTHLEFT: '('>
+linea:9, Columna: 22;
+<TOKEN ID: 'lista'>
+linea:9, Columna: 27;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:9, Columna: 28;
+<Simbolo especial DIV: '/'>
+linea:9, Columna: 29;
+<TOKEN ID: 'sizeof'>
+linea:9, Columna: 35;
+<Simbolo especial PARENTHLEFT: '('>
+linea:9, Columna: 36;
+<palabra clave INT: 'int'>
+linea:9, Columna: 39;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:9, Columna: 40;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:11, Columna: 4;
+<TOKEN ID: 'printf'>
+linea:11, Columna: 10;
+<Simbolo especial PARENTHLEFT: '('>
+linea:11, Columna: 11;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:11, Columna: 12;
+RESPUESTA: Error, simbolo no reconocido: 'Lista
+linea:11, Columna: 18;
+RESPUESTA: Error, simbolo no reconocido: 'Desordenada
+linea:11, Columna: 30;
+RESPUESTA: Error, simbolo no reconocido: '\
+linea:11, Columna: 31;
+<TOKEN ID: 'n'>
+linea:11, Columna: 32;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:11, Columna: 33;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:11, Columna: 34;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:13, Columna: 4;
+<TOKEN ID: 'for'>
+linea:13, Columna: 8;
+<Simbolo especial PARENTHLEFT: '('>
+linea:13, Columna: 9;
+<palabra clave INT: 'int'>
+linea:13, Columna: 13;
+<TOKEN ID: 'i'>
+linea:13, Columna: 14;
+<Simbolo especial ASSIGN: '='>
+linea:13, Columna: 15;
+<TOKEN NUM: '0'>
+linea:13, Columna: 16;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:13, Columna: 18;
+<TOKEN ID: 'i'>
+linea:13, Columna: 19;
+<Simbolo especial MENOR: '<'>
+linea:13, Columna: 20;
+<TOKEN ID: 'size'>
+linea:13, Columna: 24;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:13, Columna: 26;
+<TOKEN ID: 'i'>
+linea:13, Columna: 27;
+<Simbolo especial SUMA: '+'>
+linea:13, Columna: 28;
+<Simbolo especial SUMA: '+'>
+linea:13, Columna: 29;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:13, Columna: 31;
+<Simbolo especial BRACELEFT: '{'>
+linea:14, Columna: 8;
+<TOKEN ID: 'printf'>
+linea:14, Columna: 14;
+<Simbolo especial PARENTHLEFT: '('>
+linea:14, Columna: 15;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:14, Columna: 16;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:14, Columna: 17;
+<TOKEN ID: 'd'>
+linea:14, Columna: 18;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:14, Columna: 19;
+<Simbolo especial COMA: ','>
+linea:14, Columna: 20;
+<TOKEN ID: 'lista'>
+linea:14, Columna: 25;
+<Simbolo especial BRACKETLEFT: '['>
+linea:14, Columna: 26;
+<TOKEN ID: 'i'>
+linea:14, Columna: 27;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:14, Columna: 28;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:14, Columna: 29;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:15, Columna: 8;
+<palabra clave IF: 'if'>
+linea:15, Columna: 10;
+<Simbolo especial PARENTHLEFT: '('>
+linea:15, Columna: 11;
+<TOKEN ID: 'i'>
+linea:15, Columna: 12;
+<Simbolo especial MENOR: '<'>
+linea:15, Columna: 13;
+<TOKEN ID: 'size'>
+linea:15, Columna: 17;
+<Simbolo especial RESTA: '-'>
+linea:15, Columna: 18;
+<TOKEN NUM: '1'>
+linea:15, Columna: 19;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:16, Columna: 12;
+<TOKEN ID: 'printf'>
+linea:16, Columna: 18;
+<Simbolo especial PARENTHLEFT: '('>
+linea:16, Columna: 19;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:16, Columna: 20;
+<Simbolo especial COMA: ','>
+linea:16, Columna: 21;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:16, Columna: 22;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:16, Columna: 23;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:17, Columna: 4;
+<Simbolo especial BRACERIGHT: '}'>
+linea:19, Columna: 4;
+<TOKEN ID: 'printf'>
+linea:19, Columna: 10;
+<Simbolo especial PARENTHLEFT: '('>
+linea:19, Columna: 11;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:19, Columna: 12;
+RESPUESTA: Error, simbolo no reconocido: '\
+linea:19, Columna: 13;
+<TOKEN ID: 'n'>
+linea:19, Columna: 14;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:19, Columna: 15;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:19, Columna: 16;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:20, Columna: 4;
+<TOKEN ID: 'quicksort'>
+linea:20, Columna: 13;
+<Simbolo especial PARENTHLEFT: '('>
+linea:20, Columna: 14;
+<TOKEN ID: 'lista'>
+linea:20, Columna: 19;
+<Simbolo especial COMA: ','>
+linea:20, Columna: 20;
+<TOKEN ID: 'size'>
+linea:20, Columna: 24;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:20, Columna: 25;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:22, Columna: 4;
+<TOKEN ID: 'printf'>
+linea:22, Columna: 10;
+<Simbolo especial PARENTHLEFT: '('>
+linea:22, Columna: 11;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:22, Columna: 12;
+RESPUESTA: Error, simbolo no reconocido: 'Lista
+linea:22, Columna: 18;
+RESPUESTA: Error, simbolo no reconocido: 'Ordenada
+linea:22, Columna: 27;
+RESPUESTA: Error, simbolo no reconocido: '\
+linea:22, Columna: 28;
+<TOKEN ID: 'n'>
+linea:22, Columna: 29;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:22, Columna: 30;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:22, Columna: 31;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:23, Columna: 4;
+<TOKEN ID: 'for'>
+linea:23, Columna: 8;
+<Simbolo especial PARENTHLEFT: '('>
+linea:23, Columna: 9;
+<palabra clave INT: 'int'>
+linea:23, Columna: 13;
+<TOKEN ID: 'i'>
+linea:23, Columna: 14;
+<Simbolo especial ASSIGN: '='>
+linea:23, Columna: 15;
+<TOKEN NUM: '0'>
+linea:23, Columna: 16;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:23, Columna: 18;
+<TOKEN ID: 'i'>
+linea:23, Columna: 19;
+<Simbolo especial MENOR: '<'>
+linea:23, Columna: 20;
+<TOKEN ID: 'size'>
+linea:23, Columna: 24;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:23, Columna: 26;
+<TOKEN ID: 'i'>
+linea:23, Columna: 27;
+<Simbolo especial SUMA: '+'>
+linea:23, Columna: 28;
+<Simbolo especial SUMA: '+'>
+linea:23, Columna: 29;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:23, Columna: 31;
+<Simbolo especial BRACELEFT: '{'>
+linea:24, Columna: 8;
+<TOKEN ID: 'printf'>
+linea:24, Columna: 14;
+<Simbolo especial PARENTHLEFT: '('>
+linea:24, Columna: 15;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:24, Columna: 16;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:24, Columna: 17;
+<TOKEN ID: 'd'>
+linea:24, Columna: 18;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:24, Columna: 19;
+<Simbolo especial COMA: ','>
+linea:24, Columna: 20;
+<TOKEN ID: 'lista'>
+linea:24, Columna: 25;
+<Simbolo especial BRACKETLEFT: '['>
+linea:24, Columna: 26;
+<TOKEN ID: 'i'>
+linea:24, Columna: 27;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:24, Columna: 28;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:24, Columna: 29;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:25, Columna: 8;
+<palabra clave IF: 'if'>
+linea:25, Columna: 10;
+<Simbolo especial PARENTHLEFT: '('>
+linea:25, Columna: 11;
+<TOKEN ID: 'i'>
+linea:25, Columna: 12;
+<Simbolo especial MENOR: '<'>
+linea:25, Columna: 13;
+<TOKEN ID: 'size'>
+linea:25, Columna: 17;
+<Simbolo especial RESTA: '-'>
+linea:25, Columna: 18;
+<TOKEN NUM: '1'>
+linea:25, Columna: 19;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:26, Columna: 12;
+<TOKEN ID: 'printf'>
+linea:26, Columna: 18;
+<Simbolo especial PARENTHLEFT: '('>
+linea:26, Columna: 19;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:26, Columna: 20;
+<Simbolo especial COMA: ','>
+linea:26, Columna: 21;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:26, Columna: 22;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:26, Columna: 23;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:27, Columna: 4;
+<Simbolo especial BRACERIGHT: '}'>
+linea:29, Columna: 4;
+<palabra clave RETURN: 'return'>
+linea:29, Columna: 11;
+<TOKEN NUM: '0'>
+linea:29, Columna: 12;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:30, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+FIN DE ARCHIVO
+------------------------------------
+
+RESULTADOS DEL ARCHIVO: ejemplo9.txt
+linea:0, Columna: 0;
+<palabra clave VOID: 'void'>
+linea:0, Columna: 5;
+<TOKEN ID: 'cargar'>
+linea:0, Columna: 12;
+<Simbolo especial PARENTHLEFT: '('>
+linea:0, Columna: 13;
+<palabra clave INT: 'int'>
+linea:0, Columna: 17;
+<TOKEN ID: 'vec'>
+linea:0, Columna: 20;
+<Simbolo especial BRACKETLEFT: '['>
+linea:0, Columna: 21;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:0, Columna: 22;
+<Simbolo especial COMA: ','>
+linea:0, Columna: 24;
+<palabra clave INT: 'int'>
+linea:0, Columna: 28;
+<TOKEN ID: 'tam'>
+linea:0, Columna: 31;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:1, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:2, Columna: 0;
+<palabra clave INT: 'int'>
+linea:2, Columna: 4;
+<TOKEN ID: 'i'>
+linea:2, Columna: 5;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:3, Columna: 0;
+<TOKEN ID: 'printf'>
+linea:3, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:3, Columna: 7;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:3, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: 'Ingresar
+linea:3, Columna: 17;
+<TOKEN NUM: '10'>
+linea:3, Columna: 20;
+<TOKEN ID: 'valoresn'>
+linea:3, Columna: 28;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:3, Columna: 29;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:4, Columna: 0;
+<TOKEN ID: 'for'>
+linea:4, Columna: 3;
+<Simbolo especial PARENTHLEFT: '('>
+linea:4, Columna: 4;
+<TOKEN ID: 'i'>
+linea:4, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:4, Columna: 6;
+<TOKEN NUM: '0'>
+linea:4, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:4, Columna: 8;
+<TOKEN ID: 'i'>
+linea:4, Columna: 9;
+<Simbolo especial MENOR: '<'>
+linea:4, Columna: 10;
+<TOKEN ID: 'tam'>
+linea:4, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:4, Columna: 14;
+<TOKEN ID: 'i'>
+linea:4, Columna: 15;
+<Simbolo especial SUMA: '+'>
+linea:4, Columna: 16;
+<Simbolo especial SUMA: '+'>
+linea:4, Columna: 17;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:5, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:6, Columna: 0;
+<TOKEN ID: 'printf'>
+linea:6, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:6, Columna: 7;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:6, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: 'Ingresar
+linea:6, Columna: 17;
+<TOKEN ID: 'valor'>
+linea:6, Columna: 22;
+RESPUESTA: Error, simbolo no reconocido: ':
+linea:6, Columna: 24;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:6, Columna: 25;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:7, Columna: 0;
+<TOKEN ID: 'scanf'>
+linea:7, Columna: 5;
+<Simbolo especial PARENTHLEFT: '('>
+linea:7, Columna: 6;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:7, Columna: 7;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:7, Columna: 8;
+<TOKEN ID: 'd'>
+linea:7, Columna: 9;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:7, Columna: 10;
+<Simbolo especial COMA: ','>
+linea:7, Columna: 11;
+RESPUESTA: Error, simbolo no reconocido: '&
+linea:7, Columna: 12;
+<TOKEN ID: 'vec'>
+linea:7, Columna: 15;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:7, Columna: 16;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:8, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:9, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:9, Columna: 0;
+<palabra clave VOID: 'void'>
+linea:11, Columna: 5;
+<TOKEN ID: 'ordenacion'>
+linea:11, Columna: 16;
+<Simbolo especial PARENTHLEFT: '('>
+linea:11, Columna: 17;
+<palabra clave INT: 'int'>
+linea:11, Columna: 21;
+<TOKEN ID: 'vec'>
+linea:11, Columna: 24;
+<Simbolo especial BRACKETLEFT: '['>
+linea:11, Columna: 25;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:11, Columna: 26;
+<Simbolo especial COMA: ','>
+linea:11, Columna: 28;
+<palabra clave INT: 'int'>
+linea:11, Columna: 32;
+<TOKEN ID: 'tam'>
+linea:11, Columna: 35;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:12, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:13, Columna: 0;
+<palabra clave INT: 'int'>
+linea:13, Columna: 4;
+<TOKEN ID: 'i'>
+linea:13, Columna: 5;
+<Simbolo especial COMA: ','>
+linea:13, Columna: 6;
+<TOKEN ID: 'j'>
+linea:13, Columna: 7;
+<Simbolo especial COMA: ','>
+linea:13, Columna: 8;
+<TOKEN ID: 'aux'>
+linea:13, Columna: 11;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:14, Columna: 0;
+<TOKEN ID: 'for'>
+linea:14, Columna: 3;
+<Simbolo especial PARENTHLEFT: '('>
+linea:14, Columna: 4;
+<TOKEN ID: 'i'>
+linea:14, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:14, Columna: 6;
+<TOKEN NUM: '0'>
+linea:14, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:14, Columna: 8;
+<TOKEN ID: 'i'>
+linea:14, Columna: 9;
+<Simbolo especial MENOR: '<'>
+linea:14, Columna: 10;
+<TOKEN ID: 'tam'>
+linea:14, Columna: 13;
+<Simbolo especial RESTA: '-'>
+linea:14, Columna: 14;
+<TOKEN NUM: '1'>
+linea:14, Columna: 15;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:14, Columna: 16;
+<TOKEN ID: 'i'>
+linea:14, Columna: 17;
+<Simbolo especial SUMA: '+'>
+linea:14, Columna: 18;
+<Simbolo especial SUMA: '+'>
+linea:14, Columna: 19;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:15, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:16, Columna: 0;
+<TOKEN ID: 'for'>
+linea:16, Columna: 3;
+<Simbolo especial PARENTHLEFT: '('>
+linea:16, Columna: 4;
+<TOKEN ID: 'j'>
+linea:16, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:16, Columna: 6;
+<TOKEN NUM: '0'>
+linea:16, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:16, Columna: 8;
+<TOKEN ID: 'j'>
+linea:16, Columna: 9;
+<Simbolo especial MENOR: '<'>
+linea:16, Columna: 10;
+<TOKEN ID: 'tam'>
+linea:16, Columna: 13;
+<Simbolo especial RESTA: '-'>
+linea:16, Columna: 14;
+<TOKEN ID: 'i'>
+linea:16, Columna: 15;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:16, Columna: 16;
+<TOKEN ID: 'j'>
+linea:16, Columna: 17;
+<Simbolo especial SUMA: '+'>
+linea:16, Columna: 18;
+<Simbolo especial SUMA: '+'>
+linea:16, Columna: 19;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:17, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:18, Columna: 0;
+<palabra clave IF: 'if'>
+linea:18, Columna: 2;
+<Simbolo especial PARENTHLEFT: '('>
+linea:18, Columna: 3;
+<TOKEN ID: 'vec'>
+linea:18, Columna: 6;
+<Simbolo especial BRACKETLEFT: '['>
+linea:18, Columna: 7;
+<TOKEN ID: 'j'>
+linea:18, Columna: 8;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:18, Columna: 9;
+<Simbolo especial MAYOR: '>'>
+linea:18, Columna: 10;
+<TOKEN ID: 'vec'>
+linea:18, Columna: 13;
+<Simbolo especial BRACKETLEFT: '['>
+linea:18, Columna: 14;
+<TOKEN ID: 'j'>
+linea:18, Columna: 15;
+<Simbolo especial SUMA: '+'>
+linea:18, Columna: 16;
+<TOKEN NUM: '1'>
+linea:18, Columna: 17;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:18, Columna: 18;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:19, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:20, Columna: 0;
+<TOKEN ID: 'aux'>
+linea:20, Columna: 3;
+<Simbolo especial ASSIGN: '='>
+linea:20, Columna: 4;
+<TOKEN ID: 'vec'>
+linea:20, Columna: 7;
+<Simbolo especial BRACKETLEFT: '['>
+linea:20, Columna: 8;
+<TOKEN ID: 'j'>
+linea:20, Columna: 9;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:20, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:21, Columna: 0;
+<TOKEN ID: 'vec'>
+linea:21, Columna: 3;
+<Simbolo especial BRACKETLEFT: '['>
+linea:21, Columna: 4;
+<TOKEN ID: 'j'>
+linea:21, Columna: 5;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:21, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:21, Columna: 7;
+<TOKEN ID: 'vec'>
+linea:21, Columna: 10;
+<Simbolo especial BRACKETLEFT: '['>
+linea:21, Columna: 11;
+<TOKEN ID: 'j'>
+linea:21, Columna: 12;
+<Simbolo especial SUMA: '+'>
+linea:21, Columna: 13;
+<TOKEN NUM: '1'>
+linea:21, Columna: 14;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:21, Columna: 15;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:22, Columna: 0;
+<TOKEN ID: 'vec'>
+linea:22, Columna: 3;
+<Simbolo especial BRACKETLEFT: '['>
+linea:22, Columna: 4;
+<TOKEN ID: 'j'>
+linea:22, Columna: 5;
+<Simbolo especial SUMA: '+'>
+linea:22, Columna: 6;
+<TOKEN NUM: '1'>
+linea:22, Columna: 7;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:22, Columna: 8;
+<Simbolo especial ASSIGN: '='>
+linea:22, Columna: 9;
+<TOKEN ID: 'aux'>
+linea:22, Columna: 12;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:23, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:24, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:25, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:26, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:26, Columna: 0;
+<palabra clave VOID: 'void'>
+linea:28, Columna: 5;
+<TOKEN ID: 'mostrar'>
+linea:28, Columna: 12;
+<Simbolo especial PARENTHLEFT: '('>
+linea:28, Columna: 13;
+<palabra clave INT: 'int'>
+linea:28, Columna: 17;
+<TOKEN ID: 'vec'>
+linea:28, Columna: 20;
+<Simbolo especial BRACKETLEFT: '['>
+linea:28, Columna: 21;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:28, Columna: 22;
+<Simbolo especial COMA: ','>
+linea:28, Columna: 24;
+<palabra clave INT: 'int'>
+linea:28, Columna: 28;
+<TOKEN ID: 'tam'>
+linea:28, Columna: 31;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:29, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:30, Columna: 0;
+<palabra clave INT: 'int'>
+linea:30, Columna: 4;
+<TOKEN ID: 'i'>
+linea:30, Columna: 5;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:31, Columna: 0;
+<TOKEN ID: 'printf'>
+linea:31, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:31, Columna: 7;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:31, Columna: 8;
+<TOKEN ID: 'n'>
+linea:31, Columna: 9;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:31, Columna: 10;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:32, Columna: 0;
+<TOKEN ID: 'for'>
+linea:32, Columna: 3;
+<Simbolo especial PARENTHLEFT: '('>
+linea:32, Columna: 4;
+<TOKEN ID: 'i'>
+linea:32, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:32, Columna: 6;
+<TOKEN NUM: '0'>
+linea:32, Columna: 7;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:32, Columna: 8;
+<TOKEN ID: 'i'>
+linea:32, Columna: 9;
+<Simbolo especial MENOR: '<'>
+linea:32, Columna: 10;
+<TOKEN ID: 'tam'>
+linea:32, Columna: 13;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:32, Columna: 14;
+<TOKEN ID: 'i'>
+linea:32, Columna: 15;
+<Simbolo especial SUMA: '+'>
+linea:32, Columna: 16;
+<Simbolo especial SUMA: '+'>
+linea:32, Columna: 17;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:33, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:34, Columna: 0;
+<TOKEN ID: 'printf'>
+linea:34, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:34, Columna: 7;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:34, Columna: 8;
+RESPUESTA: Error, simbolo no reconocido: '%
+linea:34, Columna: 9;
+<TOKEN ID: 'd'>
+linea:34, Columna: 10;
+<Simbolo especial COMA: ','>
+linea:34, Columna: 12;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:34, Columna: 13;
+<Simbolo especial COMA: ','>
+linea:34, Columna: 14;
+<TOKEN ID: 'vec'>
+linea:34, Columna: 17;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:34, Columna: 18;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:35, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:36, Columna: 0;
+<TOKEN ID: 'printf'>
+linea:36, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:36, Columna: 7;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:36, Columna: 8;
+<TOKEN ID: 'nn'>
+linea:36, Columna: 10;
+RESPUESTA: Error, simbolo no reconocido: '"
+linea:36, Columna: 11;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:37, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:39, Columna: 0;
+<palabra clave INT: 'int'>
+linea:39, Columna: 4;
+<TOKEN ID: 'busqueda'>
+linea:39, Columna: 13;
+<Simbolo especial PARENTHLEFT: '('>
+linea:39, Columna: 14;
+<palabra clave INT: 'int'>
+linea:39, Columna: 18;
+<TOKEN ID: 'vec'>
+linea:39, Columna: 21;
+<Simbolo especial BRACKETLEFT: '['>
+linea:39, Columna: 22;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:39, Columna: 23;
+<Simbolo especial COMA: ','>
+linea:39, Columna: 24;
+<palabra clave INT: 'int'>
+linea:39, Columna: 28;
+<TOKEN ID: 'buscado'>
+linea:39, Columna: 35;
+<Simbolo especial COMA: ','>
+linea:39, Columna: 36;
+<palabra clave INT: 'int'>
+linea:39, Columna: 40;
+<TOKEN ID: 'tam'>
+linea:39, Columna: 43;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:40, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:41, Columna: 0;
+<palabra clave INT: 'int'>
+linea:41, Columna: 4;
+<TOKEN ID: 'inicio'>
+linea:41, Columna: 10;
+<Simbolo especial COMA: ','>
+linea:41, Columna: 11;
+<TOKEN ID: 'medio'>
+linea:41, Columna: 16;
+<Simbolo especial COMA: ','>
+linea:41, Columna: 17;
+<TOKEN ID: 'fin'>
+linea:41, Columna: 20;
+<Simbolo especial COMA: ','>
+linea:41, Columna: 21;
+<TOKEN ID: 'ban'>
+linea:41, Columna: 24;
+<Simbolo especial ASSIGN: '='>
+linea:41, Columna: 25;
+<TOKEN NUM: '0'>
+linea:41, Columna: 26;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:42, Columna: 0;
+<TOKEN ID: 'inicio'>
+linea:42, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:42, Columna: 7;
+<TOKEN NUM: '0'>
+linea:42, Columna: 8;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:43, Columna: 0;
+<TOKEN ID: 'fin'>
+linea:43, Columna: 3;
+<Simbolo especial ASSIGN: '='>
+linea:43, Columna: 4;
+<TOKEN ID: 'tam'>
+linea:43, Columna: 7;
+<Simbolo especial RESTA: '-'>
+linea:43, Columna: 8;
+<TOKEN NUM: '1'>
+linea:43, Columna: 9;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:43, Columna: 9;
+<palabra clave WHILE: 'while'>
+linea:44, Columna: 5;
+<Simbolo especial PARENTHLEFT: '('>
+linea:44, Columna: 6;
+<TOKEN ID: 'inicio'>
+linea:44, Columna: 12;
+<Simbolo especial MENIGUAL: '<='>
+linea:44, Columna: 14;
+<TOKEN ID: 'fin'>
+linea:44, Columna: 18;
+RESPUESTA: Error, simbolo no reconocido: '&
+linea:44, Columna: 19;
+RESPUESTA: Error, simbolo no reconocido: '&
+linea:44, Columna: 21;
+<TOKEN ID: 'ban'>
+linea:44, Columna: 24;
+<Simbolo especial IGUALIGUAL: '=='>
+linea:44, Columna: 26;
+<TOKEN NUM: '0'>
+linea:44, Columna: 27;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:45, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:46, Columna: 0;
+<TOKEN ID: 'medio'>
+linea:46, Columna: 5;
+<Simbolo especial ASSIGN: '='>
+linea:46, Columna: 6;
+<Simbolo especial PARENTHLEFT: '('>
+linea:46, Columna: 7;
+<TOKEN ID: 'inicio'>
+linea:46, Columna: 13;
+<Simbolo especial SUMA: '+'>
+linea:46, Columna: 14;
+<TOKEN ID: 'fin'>
+linea:46, Columna: 17;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:46, Columna: 18;
+<Simbolo especial DIV: '/'>
+linea:46, Columna: 19;
+<TOKEN NUM: '2'>
+linea:46, Columna: 20;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:47, Columna: 0;
+<palabra clave IF: 'if'>
+linea:47, Columna: 2;
+<Simbolo especial PARENTHLEFT: '('>
+linea:47, Columna: 3;
+<TOKEN ID: 'buscado'>
+linea:47, Columna: 10;
+<Simbolo especial IGUALIGUAL: '=='>
+linea:47, Columna: 12;
+<TOKEN ID: 'vec'>
+linea:47, Columna: 15;
+<Simbolo especial BRACKETLEFT: '['>
+linea:47, Columna: 16;
+<TOKEN ID: 'medio'>
+linea:47, Columna: 21;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:47, Columna: 22;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:48, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:49, Columna: 0;
+<TOKEN ID: 'ban'>
+linea:49, Columna: 3;
+<Simbolo especial ASSIGN: '='>
+linea:49, Columna: 4;
+<TOKEN NUM: '1'>
+linea:49, Columna: 5;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:50, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:51, Columna: 0;
+<palabra clave ELSE: 'else'>
+linea:52, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:53, Columna: 0;
+<palabra clave IF: 'if'>
+linea:53, Columna: 2;
+<Simbolo especial PARENTHLEFT: '('>
+linea:53, Columna: 3;
+<TOKEN ID: 'buscado'>
+linea:53, Columna: 10;
+<Simbolo especial MENOR: '<'>
+linea:53, Columna: 11;
+<TOKEN ID: 'vec'>
+linea:53, Columna: 14;
+<Simbolo especial BRACKETLEFT: '['>
+linea:53, Columna: 15;
+<TOKEN ID: 'medio'>
+linea:53, Columna: 20;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:53, Columna: 21;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:54, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:55, Columna: 0;
+<TOKEN ID: 'fin'>
+linea:55, Columna: 3;
+<Simbolo especial ASSIGN: '='>
+linea:55, Columna: 4;
+<TOKEN ID: 'medio'>
+linea:55, Columna: 9;
+<Simbolo especial RESTA: '-'>
+linea:55, Columna: 10;
+<TOKEN NUM: '1'>
+linea:55, Columna: 11;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:56, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:57, Columna: 0;
+<palabra clave ELSE: 'else'>
+linea:58, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:59, Columna: 0;
+<TOKEN ID: 'inicio'>
+linea:59, Columna: 6;
+<Simbolo especial ASSIGN: '='>
+linea:59, Columna: 7;
+<TOKEN ID: 'medio'>
+linea:59, Columna: 12;
+<Simbolo especial SUMA: '+'>
+linea:59, Columna: 13;
+<TOKEN NUM: '1'>
+linea:59, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:60, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:61, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:62, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:63, Columna: 0;
+<palabra clave RETURN: 'return'>
+linea:63, Columna: 7;
+<TOKEN ID: 'medio'>
+linea:63, Columna: 12;
+<Simbolo especial SUMA: '+'>
+linea:63, Columna: 13;
+<TOKEN NUM: '1'>
+linea:63, Columna: 14;
+<Simbolo especial PUNTOCOMA: ';'>
+linea:64, Columna: 0;
+<Simbolo especial BRACERIGHT: '}'>
+linea:66, Columna: 0;
+<palabra clave INT: 'int'>
+linea:66, Columna: 4;
+<TOKEN ID: 'main'>
+linea:66, Columna: 8;
+<Simbolo especial PARENTHLEFT: '('>
+linea:66, Columna: 9;
+<palabra clave INT: 'int'>
+linea:66, Columna: 13;
+<TOKEN ID: 'argc'>
+linea:66, Columna: 17;
+<Simbolo especial COMA: ','>
+linea:66, Columna: 19;
+<TOKEN ID: 'char'>
+linea:66, Columna: 24;
+<Simbolo especial MULT: '*'>
+linea:66, Columna: 25;
+<TOKEN ID: 'argv'>
+linea:66, Columna: 29;
+<Simbolo especial BRACKETLEFT: '['>
+linea:66, Columna: 30;
+<Simbolo especial BRACKETRIGHT: ']'>
+linea:66, Columna: 31;
+<Simbolo especial PARENTHRIGHT: ')'>
+linea:67, Columna: 0;
+<Simbolo especial BRACELEFT: '{'>
+linea:67, Columna: 2;
+<palabra clave INT: 'int'>
+linea:67, Columna: 6;
+<TOKEN ID: 'pos'>
+linea:67, Columna: 9;
+<Simbolo especial COMA: ','>
+linea:67, Colum
